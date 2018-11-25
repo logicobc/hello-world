@@ -1,4 +1,4 @@
 # hello-world
 
 Hi all,
-I like the web-development and machine-learning. i will learn and make it for myself!
+Logicobc here, I like the web-development and machine-learning. I will learn and make it for myself!
